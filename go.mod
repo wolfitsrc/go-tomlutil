@@ -1,4 +1,4 @@
-module github.com/wolfitpk/go-tomlutil
+module github.com/wolfitsrc/go-tomlutil
 
 go 1.20
 
